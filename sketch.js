@@ -42,6 +42,7 @@ function draw() {
   dustbin2.display();
   dustbin3.display();
   ground1.display();
+  console.log();
 
 }
 
